@@ -1,0 +1,59 @@
+body { background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIem5tw6M5AhSN34h077aHh4McX8DKYSdpCoU1WuMDLFcq1feasg");
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+    .crystal-image {
+      width: 200px;
+      height: 200px;
+      
+    }
+
+    #title{
+      font-family: 'Alegreya', serif;
+      text-align: center;
+      color: rgb(145, 62, 201);
+      margin: 0 auto;
+      font-size: 35px;
+    }
+
+    #instruct{
+      
+      
+      background-color: rgba(48, 121, 230, 0.76);
+      
+      border: 5px solid rgba(126, 7, 114, 0.904);
+      
+      
+      opacity: .6;
+    }
+
+    p{
+      font-family: 'Alegreya', serif;
+      
+      
+      text-align: center;
+      font-size: 25px;
+      font-weight: bold;
+      color: rgb(230, 36, 36);
+      
+    }
+
+
+    #number-to-guess{
+      font-family: 'Alegreya', serif;
+      
+
+    }
+
+    h1,h2,h3{
+      border: 5px solid rgba(126, 7, 114, 0.904);
+      text-align:center;
+      font-family: 'Alegreya', serif;
+      background-color: lavender;
+      width: 20%;
+      
+      
+    }
